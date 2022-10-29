@@ -1,0 +1,12 @@
+Log created: 2022-10-29T10:29:41.421213000Z
+Process ID:  39716 (0x9b24)
+Parent PID:  1701 (0x6a5)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: autokmaster
+Arg[3]: --startvm
+Arg[4]: b2bddaee-243f-43e2-85ea-92883a2e1766
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2

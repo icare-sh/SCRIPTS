@@ -1,0 +1,12 @@
+Log created: 2022-10-29T10:29:41.544520000Z
+Process ID:  45388 (0xb14c)
+Parent PID:  1701 (0x6a5)
+Executable:  /usr/lib/virtualbox/VBoxHeadless
+Arg[0]: /usr/lib/virtualbox/VBoxHeadless
+Arg[1]: --comment
+Arg[2]: autodep
+Arg[3]: --startvm
+Arg[4]: 3ddfeea5-0107-46c3-ba18-243981340c84
+Arg[5]: --vrde
+Arg[6]: config
+AddRef: illegal refcnt=3221225469 state=2
